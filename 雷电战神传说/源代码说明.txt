@@ -1,0 +1,7 @@
+因为最近在研究cocos2d-x，前几日看到cocos2d-html5中有款飞机游戏MoonWarriors，想着能不能用cocos2d-x来做重构，一方面可以练习一下这种飞行游戏的编程思路，另一方面也可以加深对cocos2d-x的了解。
+
+作者：kangkangz4
+
+本代码版权归原作者所有，如用于商业用途请联系作者。
+
+更多源代码请访问好库编程网  http://www.okbase.net
